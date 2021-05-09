@@ -1,1 +1,28 @@
 test1
+
+from Sebastian Colomar (Faculty) to All Participants:
+container = configuration folder
+from Sebastian Colomar (Faculty) to All Participants:
+image = read-only folder
+from Sebastian Colomar (Faculty) to All Participants:
+container -> configuration
+from Sebastian Colomar (Faculty) to All Participants:
+image -> binaries and libraries
+from Roland Abellano to All Participants:
+so the command to find the UUID of the container is "docker ps -a"?
+from Sebastian Colomar (Faculty) to All Participants:
+different folders
+from Sebastian Colomar (Faculty) to All Participants:
+docker inspect NAME
+from Roland Abellano to All Participants:
+ah
+from Roland Abellano to All Participants:
+ok
+from Roland Abellano to All Participants:
+thanks
+from Sebastian Colomar (Faculty) to All Participants:
+sudo ls /var/lib/docker/overlay2
+from Sebastian Colomar (Faculty) to All Participants:
+docker history simplilearn-phpinfo:test
+from Sebastian Colomar (Faculty) to All Participants:
+docker history simplilearn-phpinfo:test --no-trunc
